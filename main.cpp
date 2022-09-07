@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// Программа является учебной
+
 int main(){
     int a, b;
     cout << "Enter two integer numbers:";
