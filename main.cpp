@@ -8,6 +8,7 @@ int main(){
     int a, b;
     cout << "Enter two integer numbers:";
     cin >> a >> b;
+    cout << "a + b = " << a + b;
     return 0;
 }
 
